@@ -9,4 +9,7 @@
 * [《Docker 入门教程》](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html) | `ruanyf` | 2018
 * [《Docker 微服务教程》](http://www.ruanyifeng.com/blog/2018/02/docker-wordpress-tutorial.html) | `ruanyf` | 2018
 
+### docker 相关工具插件
+
+* [vscode插件对dockerfile语法支持](https://code.visualstudio.com/docs/azure/docker) | `microsoft` | 2017
 
